@@ -1,0 +1,5 @@
+greeting,
+
+the visual studio code borken in the last 2 days and the time spent on trying to fix it so i didn't could make it responsive 
+thank you for understading
+
